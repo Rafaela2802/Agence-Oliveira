@@ -1,0 +1,92 @@
+/*class*/
+
+.title{
+    text-align: center;
+}
+
+
+
+
+
+
+/*VP+Header*/
+
+header{
+    flex-direction: column;
+}
+
+header ul{
+    flex-direction: column;
+    text-align: center;
+    
+}
+
+header ul li {
+    padding: 1.5rem;
+    margin-top: 0.5rem;
+    border-bottom: 1px dotted white;
+}
+
+.vp-content h1{
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.vp-content p{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+
+/*offer*/
+
+.offer{
+    padding: 5rem 1rem 5rem 1rem;
+    text-align: center;
+}
+
+.offer-list{
+   flex-direction: column ;
+
+}
+
+/*WHO*/
+
+.who{
+    flex-direction: column;
+}
+
+
+/*temoignages*/
+
+
+.temoigages-elem {
+    flex-direction: column;
+}
+
+.temoigages-elem-reverse {
+    flex-direction: column-reverse;
+}
+
+.temoignages-elem-profil p {
+    text-align: center;
+}
+
+
+.temoignages-elem-profil img {
+    display: block;
+    margin: 2rem auto;
+}
+
+
+/*contact*/
+
+
+.contact{
+    padding: 5rem 1rem 5rem 1rem;
+}
+
+.contact-form-button {
+    margin: 3rem auto 0 auto;
+}
+
